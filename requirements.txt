@@ -1,5 +1,7 @@
-spotipy
 pandas
 numpy
 scikit-learn
-
+xgboost
+catboost
+lightgbm
+pickle
