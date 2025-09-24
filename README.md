@@ -1,4 +1,4 @@
-# Spotify Song Popularity Prediction
+# Spotify Song Popularity
 
 This project explores predicting the popularity of songs on Spotify using machine learning models. It combines audio features and metadata with various ML techniques to evaluate which models perform best for regression tasks.
 
